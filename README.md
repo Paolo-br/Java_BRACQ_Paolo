@@ -11,7 +11,7 @@ Projet réalisé dans le cadre du module **Concepts Objet et Java**
 
 Ce dépôt contient deux répertoires principaux :
 
-- **`Projet_final/`** : code source complet du projet "Vigie des Médias"
+- **`java/`** : code source complet du projet "Vigie des Médias"
 - **`TPs/`** : l’ensemble des TP réalisés au cours du semestre (PDF + code)
 
 ---
